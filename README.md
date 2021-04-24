@@ -1,1 +1,1 @@
-This is a collection of scripts for otcv3
+This is a collection of scripts for onetap crack v3
